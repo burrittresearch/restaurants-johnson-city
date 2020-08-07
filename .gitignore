@@ -4,6 +4,11 @@
 
 .ipynb_checkpoints/
 
+# Ignore data file extensions
+
+*.csv
+*.xlsx
+
 
 
 
