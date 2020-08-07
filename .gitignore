@@ -1,0 +1,9 @@
+# Text file for ignoring files and folders
+
+# Ignore jupyterlab checkpoints
+
+.ipynb_checkpoints/
+
+
+
+
