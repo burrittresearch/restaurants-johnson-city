@@ -12,11 +12,11 @@ Exploratory data analysis for a new restaurant in downtown Johnson City, Tenness
     > ### [Report](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-report.pdf 'Report')
     > ### [Powerpoint](https://github.com/burrittresearch/restaurants-johnson-city/blob/master/restaurants-jc-presentation.pdf 'Presentation')
 
-## Contact: Jonathan Burritt    
+## Contact: Wayne Burritt
 
 ### [wburritt@burrittresearch.com](mailto:wburritt@burrittresearch.com)
 ### [LinkedIn](https://www.linkedin.com/in/burrittresearch/ "Burritt Research LinkedIn")
-### [Twitter](https://twitter.com/burrittresearch/ "Burritt Research Twitter")
+### [@burrittresearch](https://twitter.com/burrittresearch/ "Burritt Research Twitter")
 
 ## Project Link
 [https://github.com/burrittresearch/restaurants-johnson-city](https://github.com/burrittresearch/restaurants-johnson-city 'Project')
