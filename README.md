@@ -1,4 +1,4 @@
-# ibm-data-science-capstone
+# restaurants-johnson-city
 Final project for the IBM Applied Data Science Capstone course
 
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
@@ -23,5 +23,3 @@ Final project for the IBM Applied Data Science Capstone course
 
 ## License
 This project is distributed under the [MIT License](https://github.com/burrittresearch/ibm-data-science-capstone/blob/master/LICENSE.md 'MIT License'). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT 'Open Source Initiative').
-
-burrittresearch/restaurants-johnson-city/blob/master
