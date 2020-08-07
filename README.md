@@ -1,5 +1,5 @@
 # restaurants-johnson-city
-Final project for the IBM Applied Data Science Capstone course
+Exploratory data analysis for a new restaurant in downtown Johnson City, Tennessee
 
 ## Project: Deciding on a New Restaurant for Johnson City, Tennessee
 
